@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/agakhil13/agakhil13/blob/main/Hi.gif" width="32px">, I'm Akhil</h1>
+<h1 align="center">Hi <img src="https://github.com/agakhil13/agakhil13/blob/main/Hi.gif" width="10px">, I'm Akhil</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agakhil13&label=Profile%20views&color=0e75b6&style=flat" alt="agakhil13" /> </p>
